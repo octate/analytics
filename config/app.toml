@@ -1,0 +1,12 @@
+#MongoDB
+[mongo]
+server = "10.43.13.250:27017"
+database = "servicelogs"
+# MongoDB collection names
+user_activity = "useractivity"
+end_point_tests = "channelendpointtests"
+
+#kafka
+[kafka]
+server = "localhost:9092"
+topic = "ifhfngy"
